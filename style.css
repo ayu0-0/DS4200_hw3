@@ -1,0 +1,11 @@
+.yellow {
+    background-color: rgb(248, 237, 131);
+}
+
+.title {
+    font-family: "Impact";
+}
+
+body {
+  padding: 20px;
+}
