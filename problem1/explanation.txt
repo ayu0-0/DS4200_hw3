@@ -1,0 +1,10 @@
+The hyper link of your website
+
+https://ayu0-0.github.io/DS4200_hw3/
+
+
+Decribe all the Styling & Customizations you have done in the Website.
+
+- background color: light yellow
+- title font: impact
+- padding: 20px
